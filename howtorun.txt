@@ -1,7 +1,8 @@
-Make sure to include in the “cmake-build-debug” directory the input file name “input_packets.txt”. 
-Make sure the input file is “.txt” format.
+Make sure to include in the “cmake-build-debug” directory the input file named “input_packets.txt”. 
+Make sure the input file is in “.txt” format.
 
 Open the Project in any IDE and press Run. 
+
 The expected output should be presented in an “output_packets.txt” file in the same directory as the input.
 
 Comment the 12th line in the main.cpp file to present the output in the console, if preferred.
